@@ -1,0 +1,40 @@
+body{
+	background-color: #FBB585;
+	margin: 30px;
+	border:solid 1px;
+	border-color: black;
+	border-radius: 5px;
+}
+p,h1,h3{
+	margin: 20px;
+}
+h1{
+	text-shadow: 3px 3px 3px #FC9B0F;
+}
+#lista a{
+	text-decoration: none;
+	color: #8D1E0B;
+	margin: 10px;
+	}
+.lista2 a{
+	text-decoration: none;
+	color: #8D1E0B;
+	margin: 10px;
+	}
+.fiesta a{
+	text-decoration: none;
+	color: #0EF9EE;
+}
+#lista a:hover{
+	text-decoration: none;
+	color: #FCE70F;
+	}
+.lista2 a:hover{
+	text-decoration: none;
+	color: #FCE70F;
+	}
+.fiesta a:hover{
+	text-decoration: none;
+	color: #53FC0F;
+	font-size: 30px;
+}

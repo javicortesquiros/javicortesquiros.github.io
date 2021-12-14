@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-image: url("../img/bg.png");
+}
+
+#logo{
+	margin-left: 10%;
+	width: 15%;
+	height: 30%;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-right: 25px;
+}
+
+nav ul li a{
+	color: white;
+}
+
+nav{
+	margin-top: 25px;
+	margin-right: 20%;
+	float: right;
+}
+
+#banner{
+	margin-left: 10%;
+	width: 80%;
+	margin-right: 10%;
+	border: 7px solid;
+	border-color: #C1C1C1;
+}
+
+header h1{
+	color: white;
+	margin-left: 10%;
+}
+
+header p{
+	color: white;
+	margin-left: 10%;
+	padding-bottom: 20px;
+	margin-right: 10%
+}
+
+#principal{
+	background-color: #C1C1C1;
+	padding-left: 10%;
+	padding-right: 10%;
+	float: left;
+	padding-top: 20px;
+
+	
+}
+
+article a{
+	color: #FFA162;
+}
+
+.titulo{
+	color: #FFA162;
+}
+
+.articulos{
+	margin-right: 40px;
+	width: 20%;
+	float: left;
+}
+
+#top{
+	padding-top: 25px;
+}
+
+#titulo2{
+	padding-bottom: 20px;
+	color: #F66670;
+}
+
+
+#fernand{
+	width: 65%;
+	margin-left: 5%;
+	margin-right: 10%;
+	float: left;
+	margin-bottom: 50px;
+}
+
+#tumbado{
+	padding-bottom: 30px;
+	float: left;
+}
+
+footer{
+	clear: both;
+	background-image: url(../img/footer.png);
+	background-repeat: repeat-x;
+	float: left;
+	width: 100%;
+
+}
+
+#hello{
+	margin-top: 15px;
+	float: left;
+	margin-left: 10%;
+	padding-right: 40px;
+	color: white;
+}
+
+#bla{
+	margin-top: 15px;
+	float: left;
+	padding-right: 40px;
+	color: white;
+}
+
+#purr{
+	margin-top: 15px;
+	float: left;
+	color: white;
+}
+
+#valid{
+	
+	margin-top: 10%;
+	float: left;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	color: white;
+}
+
+#copy{
+	float:left;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 10%;
+	color: white;
+
+}
+
+#catpaw{
+	position:relative;
+	float: right;
+	bottom: 100px;
+}

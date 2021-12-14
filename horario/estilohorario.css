@@ -1,0 +1,45 @@
+@font-face{
+	font-family:zcool;
+	src:url(font/zcool.ttf) format('truetype');
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+
+}
+
+td{
+	border:1px solid black;
+	padding: 10px;
+
+}
+th{
+	font-family: zcool;
+	border:1px solid black;
+	padding: 10px;
+
+}
+.base{
+	font-family: zcool;
+	background-color: #5F71F5;
+}
+.iso{
+	font-family: zcool;
+	background-color: #ECF57F;
+}
+.redes{
+	font-family: zcool;
+	background-color: #65C541;
+}
+.fol{
+	font-family: zcool;
+	background-color: #7AD7DB;
+}
+.marcas{
+	font-family: zcool;
+	background-color: #F784D7;
+}
+.hard{
+	font-family: zcool;
+	background-color: #F95B42;
+}

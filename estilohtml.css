@@ -1,0 +1,19 @@
+.ejercicio{
+	width: 60px;
+	height: 40px;
+	background-color: #4C4F50;
+	padding: 15px;
+	text-align-last: center;
+	text-decoration: none;
+	color: white;
+	
+}
+.ejercicio:hover{
+	background-color: #E27751;
+}
+header a{
+	margin-left: 70%;
+	padding-bottom: 40px;
+	text-decoration: none;
+	color: #E27751;
+}
